@@ -1,0 +1,2 @@
+# templates
+Newsletter template
